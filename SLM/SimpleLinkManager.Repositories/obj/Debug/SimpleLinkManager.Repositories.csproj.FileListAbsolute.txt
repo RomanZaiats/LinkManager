@@ -1,0 +1,23 @@
+c:\users\romax\documents\visual studio 2015\SimpleLinkManager.Repositories\bin\Debug\SimpleLinkManager.Repositories.dll.config
+c:\users\romax\documents\visual studio 2015\SimpleLinkManager.Repositories\bin\Debug\SimpleLinkManager.Repositories.dll
+c:\users\romax\documents\visual studio 2015\SimpleLinkManager.Repositories\bin\Debug\SimpleLinkManager.Repositories.pdb
+c:\users\romax\documents\visual studio 2015\SimpleLinkManager.Repositories\bin\Debug\EntityFramework.dll
+c:\users\romax\documents\visual studio 2015\SimpleLinkManager.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\romax\documents\visual studio 2015\SimpleLinkManager.Repositories\bin\Debug\EntityFramework.xml
+c:\users\romax\documents\visual studio 2015\SimpleLinkManager.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\romax\documents\visual studio 2015\SimpleLinkManager.Repositories\obj\Debug\SimpleLinkManager.Repositories.csprojResolveAssemblyReference.cache
+c:\users\romax\documents\visual studio 2015\SimpleLinkManager.Repositories\obj\Debug\SimpleLinkManager.Repositories.dll
+c:\users\romax\documents\visual studio 2015\SimpleLinkManager.Repositories\obj\Debug\SimpleLinkManager.Repositories.pdb
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager.Repositories\bin\Debug\SimpleLinkManager.Repositories.dll.config
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager.Repositories\bin\Debug\SimpleLinkManager.Repositories.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager.Repositories\bin\Debug\SimpleLinkManager.Repositories.pdb
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager.Repositories\obj\Debug\SimpleLinkManager.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager.Repositories\obj\Debug\SimpleLinkManager.Repositories.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager.Repositories\obj\Debug\SimpleLinkManager.Repositories.pdb
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager.Repositories\bin\Debug\SimpleLinkManager.Repositories.dll.config
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager.Repositories\bin\Debug\SimpleLinkManager.Repositories.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager.Repositories\bin\Debug\SimpleLinkManager.Repositories.pdb
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager.Repositories\obj\Debug\SimpleLinkManager.Repositories.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager.Repositories\obj\Debug\SimpleLinkManager.Repositories.pdb

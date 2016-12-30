@@ -1,0 +1,25 @@
+﻿<table>
+    <thead>
+        <tr>
+            <th>Link title</th>
+            <th>Creation Date</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr dir-paginate="l in vm.links |filter:searchTemplate |itemsPerPage:5 ">
+            <td class="linkTitle"><a href="{{l.Title}}" target="_blank">{{l.Title}}</a></td>
+            <td>{{l.Date | date:'dd  MMMM  yyyy'}}</td>
+            <td>
+                <button class="tButton" ng-click="vm.showEditForm(l)">Edit</button>
+                <button class="tButton" ng-click="vm.remove(l)">Remove</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div class="paginationMy">
+    <dir-pagination-controls max-size="5"
+                             direction-links="true"
+                             boundary-links="true">
+    </dir-pagination-controls>
+</div>

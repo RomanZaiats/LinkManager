@@ -1,0 +1,13 @@
+﻿<div class="col rightBl">
+    <form name="editForm">
+        <div class="formHeader">Edit</div>
+        <div class="row inputs">
+            <label for="linkEditTitle">Link</label>
+            <input name="linkEditTitle" type="url" ng-model="vm.linkEditTitle" required />
+        </div>
+        <div class="row buttons">
+            <input type="button" class="tButton" value="Cancel" ng-click="vm.editFormCancel()" />
+            <input type="submit" class="tButton" value="Save Changes" ng-click="vm.saveEditing(vm.linkEditTitle)" ng-disabled="editForm.$invalid" />
+        </div>
+    </form>
+</div>

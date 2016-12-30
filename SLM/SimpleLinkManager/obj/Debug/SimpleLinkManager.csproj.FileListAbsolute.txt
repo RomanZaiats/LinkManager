@@ -1,0 +1,278 @@
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\ApplicationInsights.config
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\roslyn\csc.exe
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\roslyn\System.Collections.Immutable.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\roslyn\vbc.exe
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\roslyn\VBCSCompiler.exe
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\roslyn\VBCSCompiler.exe.config
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\SimpleLinkManager.dll.config
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\SimpleLinkManager.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\SimpleLinkManager.pdb
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.AI.Web.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.AI.WindowsServer.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.ApplicationInsights.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.Web.Infrastructure.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\System.Web.Helpers.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\System.Web.Mvc.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\System.Web.Razor.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\System.Web.Webpages.Deployment.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\System.Web.Webpages.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\System.Web.Webpages.Razor.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.AI.Web.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.AI.WindowsServer.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.ApplicationInsights.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\System.Web.Razor.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\System.Web.Webpages.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\System.Web.Webpages.Deployment.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\System.Web.Webpages.Razor.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\System.Web.Helpers.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\System.Web.Mvc.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\obj\Debug\SimpleLinkManager.csprojResolveAssemblyReference.cache
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\obj\Debug\SimpleLinkManager.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\obj\Debug\SimpleLinkManager.pdb
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\SimpleLinkManager.Repositories.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\EntityFramework.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\SimpleLinkManager.Repositories.pdb
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\EntityFramework.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\EntityFramework.SqlServer.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Newtonsoft.Json.dll
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\EntityFramework.SqlServer.xml
+c:\users\romax\documents\visual studio 2015\Projects\SimpleLinkManager\bin\Newtonsoft.Json.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\ApplicationInsights.config
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\roslyn\csc.exe
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\roslyn\vbc.exe
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\SimpleLinkManager.dll.config
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\SimpleLinkManager.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\SimpleLinkManager.pdb
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\EntityFramework.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.AI.Web.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Newtonsoft.Json.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\SimpleLinkManager.Repositories.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\System.Web.Helpers.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\System.Web.Mvc.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\System.Web.Razor.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\System.Web.Webpages.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\System.Web.Webpages.Razor.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\SimpleLinkManager.Repositories.pdb
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\EntityFramework.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.AI.Web.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\Newtonsoft.Json.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\System.Web.Razor.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\System.Web.Webpages.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\System.Web.Webpages.Razor.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\System.Web.Helpers.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\System.Web.Mvc.xml
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\obj\Debug\SimpleLinkManager.csprojResolveAssemblyReference.cache
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\obj\Debug\SimpleLinkManager.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\obj\Debug\SimpleLinkManager.pdb
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\ru\EntityFramework.resources.dll
+C:\Users\Roman Zaiats\Desktop\Нова папка\SLM\SimpleLinkManager\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\ApplicationInsights.config
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\roslyn\csc.exe
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\roslyn\vbc.exe
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\SimpleLinkManager.dll.config
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\SimpleLinkManager.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\SimpleLinkManager.pdb
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\EntityFramework.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.Web.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Newtonsoft.Json.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\SimpleLinkManager.Repositories.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\System.Web.Helpers.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\System.Web.Mvc.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\System.Web.Razor.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\System.Web.Webpages.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\System.Web.Webpages.Razor.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\SimpleLinkManager.Repositories.pdb
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\EntityFramework.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.Web.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\Newtonsoft.Json.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\System.Web.Razor.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\System.Web.Webpages.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\System.Web.Webpages.Razor.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\System.Web.Helpers.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\System.Web.Mvc.xml
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\ru\EntityFramework.resources.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\obj\Debug\SimpleLinkManager.csprojResolveAssemblyReference.cache
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\obj\Debug\SimpleLinkManager.dll
+C:\Users\Romax\Desktop\SLM\SimpleLinkManager\obj\Debug\SimpleLinkManager.pdb
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\ApplicationInsights.config
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\roslyn\csc.exe
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\roslyn\vbc.exe
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\SimpleLinkManager.dll.config
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\SimpleLinkManager.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\SimpleLinkManager.pdb
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\EntityFramework.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.Web.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Newtonsoft.Json.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\SimpleLinkManager.Repositories.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\System.Web.Helpers.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\System.Web.Mvc.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\System.Web.Razor.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\System.Web.Webpages.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\System.Web.Webpages.Razor.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\SimpleLinkManager.Repositories.pdb
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\EntityFramework.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.Web.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\Newtonsoft.Json.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\System.Web.Razor.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\System.Web.Webpages.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\System.Web.Webpages.Razor.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\System.Web.Helpers.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\System.Web.Mvc.xml
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\ru\EntityFramework.resources.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\obj\Debug\SimpleLinkManager.csprojResolveAssemblyReference.cache
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\obj\Debug\SimpleLinkManager.dll
+C:\Users\Roman Zaiats\Desktop\SLM\SimpleLinkManager\obj\Debug\SimpleLinkManager.pdb
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\ApplicationInsights.config
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\roslyn\csc.exe
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\roslyn\vbc.exe
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\SimpleLinkManager.dll.config
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\SimpleLinkManager.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\SimpleLinkManager.pdb
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\EntityFramework.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.AI.Web.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Newtonsoft.Json.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\SimpleLinkManager.Repositories.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\System.Web.Helpers.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\System.Web.Mvc.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\System.Web.Razor.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\System.Web.Webpages.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\System.Web.Webpages.Razor.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\SimpleLinkManager.Repositories.pdb
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\EntityFramework.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.AI.Web.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\Newtonsoft.Json.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\System.Web.Razor.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\System.Web.Webpages.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\System.Web.Webpages.Razor.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\System.Web.Helpers.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\System.Web.Mvc.xml
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\ru\EntityFramework.resources.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\obj\Debug\SimpleLinkManager.csprojResolveAssemblyReference.cache
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\obj\Debug\SimpleLinkManager.dll
+C:\Users\Romax\Desktop\Romik Epam\SLM\SimpleLinkManager\obj\Debug\SimpleLinkManager.pdb

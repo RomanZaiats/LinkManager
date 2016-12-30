@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLinkManager", "SimpleLinkManager\SimpleLinkManager.csproj", "{B7425BE0-B94A-48EE-839D-E952D1009003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLinkManager.Repositories", "SimpleLinkManager.Repositories\SimpleLinkManager.Repositories.csproj", "{92B010DB-ECDC-486D-B49A-316C10971D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7425BE0-B94A-48EE-839D-E952D1009003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7425BE0-B94A-48EE-839D-E952D1009003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7425BE0-B94A-48EE-839D-E952D1009003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7425BE0-B94A-48EE-839D-E952D1009003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B010DB-ECDC-486D-B49A-316C10971D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B010DB-ECDC-486D-B49A-316C10971D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B010DB-ECDC-486D-B49A-316C10971D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B010DB-ECDC-486D-B49A-316C10971D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

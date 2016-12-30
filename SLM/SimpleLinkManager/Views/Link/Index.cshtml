@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/Styles/style.css">
+    <link rel="stylesheet" href="~/fonts/fonts.css">
+    <title>Link Manager</title>
+    <link rel="shortcut icon" href="http://images.vfl.ru/ii/1479657725/7c2bd6b7/15031387.png" type="image/x-icon">
+    <link rel="icon" href="http://images.vfl.ru/ii/1479657725/7c2bd6b7/15031387.png" type="image/x-icon">
+</head>
+<body>
+    <div class="container" ng-app="linkApp" ng-controller="linkController as vm">
+        <div class="col leftBl">
+            <div class="row searchDiv">                
+                <input type="text" class="search" ng-model="searchTemplate" placeholder="search">
+            </div>
+            <hr />
+            <div class="row headerRow">
+                <span>Links of TarasKo</span>                
+                <a class="tButton" ui-sref="add">Add</a> 
+            </div>
+
+            <div ui-view></div>
+        </div>
+       
+    </div>
+
+    <script src="~/Scripts/libs/angular.js"></script>
+    <script src="~/Scripts/libs/angular.min.js"></script>
+    <script src="/Scripts/app/pages/links/link.controller.js"></script>
+    <script src="~/Scripts/app/pages/links/link.service.js"></script>
+    <script src="~/Scripts/libs/dirPagination.js"></script>
+    <script src="~/Scripts/libs/angular-ui-router.js"></script>
+</body>
+
+</html>
+
+
+

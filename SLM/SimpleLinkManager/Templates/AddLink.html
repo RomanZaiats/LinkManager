@@ -1,0 +1,13 @@
+﻿<div class="col rightBl">
+    <form name="addForm">
+        <div class="formHeader">Add</div>
+        <div class="row inputs">
+            <label for="newLinkTitle">Link</label>
+            <input name="newLinkTitle" type="url" ng-model="vm.newLinkTitle" required />
+        </div>
+        <div class="row buttons">
+            <input type="button" class="tButton" value="Cancel" ng-click="vm.addFormCancel()" />
+            <input type="submit" class="tButton" value="Save" ng-click="vm.onAddNewLink()" ng-disabled="addForm.$invalid || vm.isSameLinkExists(vm.newLinkTitle)" />
+        </div>
+    </form>
+</div>
